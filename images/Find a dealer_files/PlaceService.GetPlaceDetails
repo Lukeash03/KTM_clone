@@ -1,0 +1,32 @@
+/**/_xdc_._ug1fze && _xdc_._ug1fze( {
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "formatted_address" : "India",
+      "geometry" : {
+         "location" : {
+            "lat" : 20.593684,
+            "lng" : 78.96288
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 35.67454569461545,
+               "lng" : 97.39535874333608
+            },
+            "southwest" : {
+               "lat" : 6.46269991839241,
+               "lng" : 68.10969996381908
+            }
+         }
+      },
+      "types" : [ "country", "political" ]
+   },
+   "status" : "OK"
+}
+ )

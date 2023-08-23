@@ -1,0 +1,252 @@
+@font-face {
+    font-family: BlenderPro-Thin;
+    src: url('font/BlenderPro-Thin.ttf');
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: #fff;
+}
+header .right-nav{
+    position: absolute;
+    top: 0px;
+    right: 40px;
+}
+.left-nav{
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    z-index: 1;
+}
+.left-nav a { 
+    font-family: BlenderPro-Medium; 
+    font-weight: 600;
+    font-size: 19px;
+    font-stretch: narrower;
+    text-decoration: none;
+    color: #fff;
+    padding-right: 40px;
+}
+.icon-location{
+    position: absolute;
+    right: 300px;
+    top: 62px;
+}
+.icon-globe{
+    position: absolute;
+    right: 250px;
+    top: 60px;
+}
+.KTM-logo{
+    position: relative;
+    right: 40px;
+    top: 0px;
+}
+svg{
+    fill: #ff6600;
+}
+section{
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+}
+section div.content{
+    display: grid;
+    justify-items: center;
+    justify-content: center;
+    width: 100%;    
+}
+@font-face {
+    font-family: BlenderPro-Medium;
+    src: url('font/BlenderPro-Medium.ttf');
+}
+section h2{
+    color: #fff;
+    font-family: BlenderPro-Medium;
+    font-size: 24;
+    font-weight: 600;
+    position: absolute;
+    top: 47%;
+    margin: 0;
+}
+@font-face {
+    font-family: BlenderPro-Heavy;
+    src: url('font/BlenderPro-Heavy.ttf');
+}
+section h1{
+    color: #fff;
+    font-family: BlenderPro-Heavy;
+    font-size: 84px;
+    font-weight: bolder;
+    position: absolute;
+    top: 50%;
+    margin-top: 0%;
+}
+.blank-space{
+    background-color: #fff;
+    width: 100%;
+    height: 80px;
+}
+.main-container{
+    background-color: #fff;
+    width: 100%;
+    height: 1500.26px;
+    display: flex;
+    justify-content: center;
+}
+.all-content{
+    background-color: #fff;
+    width: 96.05%;
+    height: 1500.26px;
+}
+.KTM-category{
+    background-color: #fff;
+    width: 100%;
+    height: 514.13px;
+    display: flex;
+    justify-content: space-between;
+}
+.hash-name{
+    font-family: BlenderPro-Medium;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 30px ;
+    margin-bottom: 0;
+}
+.KTM-name{
+    font-family: BlenderPro-Heavy;
+    font-size: 32px;
+    margin-top: 5px;
+}
+.KTM-events{
+    height: 794.14px;
+    width: 1450.74px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.date{
+    font-family: BlenderPro-Medium;
+    font-weight: 600;
+    font-size: 17px;
+}
+.heading{
+    width: 443px;
+    font-family: BlenderPro-Heavy;
+    font-size: 35px;
+    font-weight: 100;
+    line-height: 35px;
+}
+.description{
+    width: 443px;
+    font-family: BlenderPro-Thin;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 25px;
+}
+.newsletter{
+    width: 100%;
+    height: 155px;
+    display: flex;
+    justify-content: center;
+}
+.newsletter h3{
+    font-family: BlenderPro-Medium;
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    margin-top: 64px;
+}
+.newsletter a{
+    border: 1px solid #ff6600;
+    margin: 40px 20px;
+    padding: 25px 50px;
+    color: #ff6600;
+    text-decoration: none;
+    font-family: BlenderPro-Medium;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;   
+}
+.footer-text{
+    border-top: 1px solid #bdbdbd;
+    height: 242.55px;
+    width: 100%;
+    display: flex;
+    justify-content: center
+}
+.footer-text p{
+    padding-top: 20px;
+    font-family: BlenderPro-Medium;
+    font-weight: lighter;
+    line-height: 25px;
+    width: 790px;
+    height: 228.25;
+    text-align: center;
+    color: #bdbdbd;
+}
+.footer{
+    height: 636.71px;
+    background-color: black;
+}
+.footer-nav{
+    height: 523.41;
+    display: flex;
+    margin: 0 40px;
+    justify-content: space-between;
+}
+.footer-nav h2{
+    color: #fff;
+    font-family: BlenderPro-Medium;
+    font-size: 24px;
+    padding-top: 78px;
+    padding-bottom: 15px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+.column a{
+    text-decoration: none;
+    font-family: BlenderPro-Thin;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 30px;
+}
+.column a:hover{
+    color: #ff6600;
+}
+.connect-logo{
+    display: flex;
+}
+.connect-logo img{
+    width: 25px;
+    padding-right: 20px;
+}   
+.footer-legal{
+    border-top: 1px solid #bdbdbd;
+    margin: 0 40px;
+    height: 113.3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.copyright p{
+    color: #bdbdbd;
+    
+}
+.top p{
+    color: #ff6600;
+    font-family: BlenderPro-Medium;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 5px;
+}

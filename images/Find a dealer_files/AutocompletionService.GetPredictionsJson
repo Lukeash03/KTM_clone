@@ -1,0 +1,189 @@
+/**/_xdc_._dzf828 && _xdc_._dzf828( {
+   "predictions" : [
+      {
+         "description" : "India",
+         "matched_substrings" : [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "reference" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "structured_formatting" : {
+            "main_text" : "India",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ]
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "India"
+            }
+         ],
+         "types" : [ "country", "political", "geocode" ]
+      },
+      {
+         "description" : "Indianapolis, IN, USA",
+         "matched_substrings" : [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJA2p5p_9Qa4gRfOq5QPadjtY",
+         "reference" : "ChIJA2p5p_9Qa4gRfOq5QPadjtY",
+         "structured_formatting" : {
+            "main_text" : "Indianapolis",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "IN, USA"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Indianapolis"
+            },
+            {
+               "offset" : 14,
+               "value" : "IN"
+            },
+            {
+               "offset" : 18,
+               "value" : "USA"
+            }
+         ],
+         "types" : [ "locality", "political", "geocode" ]
+      },
+      {
+         "description" : "Indiana, USA",
+         "matched_substrings" : [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJHRv42bxQa4gRcuwyy84vEH4",
+         "reference" : "ChIJHRv42bxQa4gRcuwyy84vEH4",
+         "structured_formatting" : {
+            "main_text" : "Indiana",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "USA"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Indiana"
+            },
+            {
+               "offset" : 9,
+               "value" : "USA"
+            }
+         ],
+         "types" : [ "administrative_area_level_1", "political", "geocode" ]
+      },
+      {
+         "description" : "India Gate, Kartavya Path, India Gate, New Delhi, Delhi, India",
+         "matched_substrings" : [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJC03rqdriDDkRXT6SJRGXFwc",
+         "reference" : "ChIJC03rqdriDDkRXT6SJRGXFwc",
+         "structured_formatting" : {
+            "main_text" : "India Gate",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "Kartavya Path, India Gate, New Delhi, Delhi, India"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "India Gate"
+            },
+            {
+               "offset" : 12,
+               "value" : "Kartavya Path"
+            },
+            {
+               "offset" : 27,
+               "value" : "India Gate"
+            },
+            {
+               "offset" : 39,
+               "value" : "New Delhi"
+            },
+            {
+               "offset" : 50,
+               "value" : "Delhi"
+            },
+            {
+               "offset" : 57,
+               "value" : "India"
+            }
+         ],
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ]
+      },
+      {
+         "description" : "India Gate, New Delhi, Delhi, India",
+         "matched_substrings" : [
+            {
+               "length" : 5,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJk-MbltviDDkRrhDd5l7vx_Y",
+         "reference" : "ChIJk-MbltviDDkRrhDd5l7vx_Y",
+         "structured_formatting" : {
+            "main_text" : "India Gate",
+            "main_text_matched_substrings" : [
+               {
+                  "length" : 5,
+                  "offset" : 0
+               }
+            ],
+            "secondary_text" : "New Delhi, Delhi, India"
+         },
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "India Gate"
+            },
+            {
+               "offset" : 12,
+               "value" : "New Delhi"
+            },
+            {
+               "offset" : 23,
+               "value" : "Delhi"
+            },
+            {
+               "offset" : 30,
+               "value" : "India"
+            }
+         ],
+         "types" : [ "sublocality_level_1", "sublocality", "political", "geocode" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
